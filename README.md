@@ -69,7 +69,7 @@ This project explores how household appliances and usage patterns drive electric
 ## Blog Post
 
 - This project is featured in a Medium article:  
-👉 *[From Voltage to Insight: Predicting Power Use with Real Home Data]([https://medium.com/your-article-link](https://medium.com/p/1444df5d82d1/edit))*
+👉 *[From Voltage to Insight: Predicting Power Use with Real Home Data](https://medium.com/@paboda-ratnayake/from-voltage-to-insight-966fc838a84b)*
 
 ---
 
